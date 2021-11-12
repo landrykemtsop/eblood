@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">eblood</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Post</string>
+    <string name="title_notifications">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="towns_array">
+        <item>Yaounde</item>
+        <item>Douala</item>
+        <item>Buea</item>
+        <item>Bertoua</item>
+        <item>Bafoussam</item>
+        <item>Maroua</item>
+        <item>Garoua</item>
+        <item>Ngaoundere</item>
+        <item>Ebolowa</item>
+    </string-array>
+
+    <string-array name="group">
+        <item>O+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>B+</item>
+        <item>B-</item>
+    </string-array>
+</resources>
